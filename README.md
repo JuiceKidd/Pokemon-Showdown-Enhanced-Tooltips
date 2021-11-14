@@ -1,3 +1,4 @@
+I'm only trying to make it work for my school chromebook lmao move on here please or check out [Generiskks updated pokemonshowdown tips](https://github.com/generiskk/Pokemon-Showdown-Enhanced-Tooltips)
 _Latest update April 20th, 2021!_ - [Chrome](https://chrome.google.com/webstore/detail/pok%C3%A9mon-showdown-enhanced/aggbolenhnpdhgcfpknifdiheppbmblb) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/psim-enhanced-tooltips/)
 
 # Pokemon-Showdown-Enhanced-Tooltips
@@ -14,7 +15,6 @@ Optional settings (right click the extension icon and toggle the setting!):
 
 ### Example
 ![Screenshot](/screenshots/screenshot-PS.png)
-
 ![Screenshot](/screenshots/screenshot-PSET.png)
 
 ### Installation
