@@ -1,7 +1,7 @@
 let ShowdownEnhancedTooltip = {};
 
 ShowdownEnhancedTooltip.Settings = {
-  showBaseStats: 'OFF',
+  showBaseStats: 'ON',
 };
 
 ShowdownEnhancedTooltip.BattleTypeChart = {
